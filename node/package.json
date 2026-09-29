@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "mssql": "^8.1.2",
-    "node-fetch": "^2.6.1"
+    "mssql": "^6.3.1"
   }
 }

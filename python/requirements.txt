@@ -4,4 +4,6 @@
 
 azure-functions
 requests
+datetime
 pyodbc
+
